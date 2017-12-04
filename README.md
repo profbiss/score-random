@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-  "github.com/profbiss/score-random"
+  	"github.com/profbiss/score-random"
 )
 
 func main()  {
